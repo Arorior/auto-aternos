@@ -10,7 +10,7 @@ def eng():
         main()
 
 def main():
-
+   print("doingg")
 if start == "ru":
    ru()
 elif start == "eng":
