@@ -1,6 +1,5 @@
 import PySimpleGUI
 start = input("ru/eng ?")
-
 def ru():
     if input("Введи start для запуска бота") == "start":
         main()
