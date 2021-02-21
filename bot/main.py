@@ -1,10 +1,12 @@
 import pyautogui
 
+lang = open('Languages', 'r')
 button = None
-start = input("ru/eng ?")
+start = input("ru/eng?\n")
 
 if start == "ru":
-    print("ru")
+    for line in lang.readlines():
+        print(line)
     button = "RuButton.png"
 elif start == "eng":
     print("eng")
