@@ -15,4 +15,4 @@ button after the queue in Aternos.*
 + **Good game to you**
 
 ## Additional materials
-[![Watch the video](https://icdn.lenta.ru/images/2017/10/10/17/20171010174640368/detail_7cec6619ef6a83ad0452e32fa34be88c.jpg)
+[![Watch the video](https://icdn.lenta.ru/images/2017/10/10/17/20171010174640368/detail_7cec6619ef6a83ad0452e32fa34be88c.jpg)](https://www.youtube.com/watch?v=9s0H-BmI-Yc)
