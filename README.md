@@ -1,5 +1,5 @@
 # auto-aternos
-[![N|Arorior-unnavocce]https://static.wixstatic.com/media/b477dd_b7496fc0d6ff4c84b31ea87b7d6422c3~mv2.png/v1/fill/w_162,h_32,al_c/фцвц.png)](https://unnavocce.wixsite.com/auto-aternos)
+[![N|Arorior-unnavocce](https://static.wixstatic.com/media/b477dd_b7496fc0d6ff4c84b31ea87b7d6422c3~mv2.png/v1/fill/w_162,h_32,al_c/фцвц.png)](https://unnavocce.wixsite.com/auto-aternos)
 
 *The program will automatically find and press the confirmation 
 button after the queue in Aternos.*
