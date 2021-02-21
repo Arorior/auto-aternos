@@ -1,5 +1,5 @@
 # auto-aternos
-[![N|Arorior-unnavocce](https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Compressed-1MfvXwMbnROXPuS.jpg)](https://github.com/Arorior)
+[![N|Arorior-unnavocce](https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Compressed-1MfvXwMbnROXPuS.jpg)](https://unnavocce.wixsite.com/auto-aternos)
 
 *The program will automatically find and press the confirmation 
 button after the queue in Aternos.*
@@ -15,4 +15,4 @@ button after the queue in Aternos.*
 + **Good game to you**
 
 ## Additional materials
-[![Watch the video](https://icdn.lenta.ru/images/2017/10/10/17/20171010174640368/detail_7cec6619ef6a83ad0452e32fa34be88c.jpg)](https://www.youtube.com/watch?v=9s0H-BmI-Yc)
+[![Watch the video](https://static.wixstatic.com/media/b477dd_b7496fc0d6ff4c84b31ea87b7d6422c3~mv2.png/v1/fill/w_162,h_32,al_c/фцвц.png)](https://www.youtube.com/watch?v=9s0H-BmI-Yc)
