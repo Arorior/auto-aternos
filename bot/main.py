@@ -1,7 +1,7 @@
-import os
+import pyautogui
 import platform
 import plyer
-import pyautogui
+import os
 
 
 def main():
