@@ -34,4 +34,4 @@ elif start == "eng":
     lang_inside = "eng"
     main()
 else:
-    print(language[11].strip())
+    print(language[10].strip())
