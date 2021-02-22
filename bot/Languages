@@ -1,9 +1,12 @@
 #RU
-Введите start для запуска бота
-Сервер был запущен!
-Какая-то ошибка :(
+Введите start для запуска бота.
+Программа запущена и ищет кнопку.
+Сервер был запущен, приятной игры.
 
 #ENG
-Enter start to run the bot
-The server has been started!
+Enter start to run the bot.
+The program is running and looking for a button.
+The server was up and running, enjoy the game.
+
+#ERROR
 Some kind of error :(
