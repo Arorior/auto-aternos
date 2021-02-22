@@ -34,7 +34,7 @@ def push(title, message):
     plt = platform.system()
     if plt == "Darwin":
         command = f'''
-        osascript -e 'display notification "{message}"   \
+        osascript -e 'display notification "{message}"  \
         with title "{title}"'
         '''
     elif plt == "Linux":
